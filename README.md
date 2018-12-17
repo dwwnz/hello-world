@@ -1,2 +1,3 @@
 # hello-world
-first repository
+
+Just learning how to navigate github. This should be fun.
